@@ -9,7 +9,8 @@ I am a driven AI Engineer and 4th-year AI Engineering & Data Science student at 
 * 🌍  I'm based in Pathum Thani, Thailand
 * ✉️  You can contact me at [manchuphon.thip@gmail.com](mailto:manchuphon.thip@gmail.com)
 * 🧠  I'm currently learning Innovative AI/ML projects, specifically those involving Autonomous Agents, Scalable MLOps, or Research in neuromorphic computing.
-* 💬  Languages: Python (Advanced), SQL, Go AI/ML: PyTorch, LangChain, LangGraph, Advanced RAG, SNNs 
+* 💬  Languages: Python (Advanced), SQL, Go 
+* 💬  AI/ML: PyTorch, LangChain, LangGraph, Advanced RAG, YOLO, MediaPipe, SNNs 
 * 💬  DevOps/MLOps: Docker, FastAPI, MLflow, Git CI/CD, n8n, Basic Kubernetes 
 * 💬  Cloud: AWS (aFTI Certified), Azure, GCP
 
