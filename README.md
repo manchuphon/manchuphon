@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Manchuphon Thiptanesuan
 ================================================================================================================================================
 
-AI Engineer | MLOps Enthusiast | Research Engineer
+AI Engineer  | ML Engineer | MLOps Enthusiast | Research Engineer
 --------------------------------------------------
 
 I am a driven AI Engineer and 4th-year AI Engineering & Data Science student at Bangkok University. My focus lies at the intersection of Agentic AI and Production-Grade MLOps, with a mission to bridge the gap between complex business logic and scalable, secure AI architecture.
